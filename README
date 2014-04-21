@@ -13,7 +13,7 @@ https://gist.github.com/lelandbatey/8677901 for the original.
 
 This whiteboard-cleander does also the following:
 * Resize images (TODO)
-* Overwrite original image if no second file name is given (TODO)
+* Overwrite original image if no second file name is given
 * Reduce number of colors (TODO)
 
 
