@@ -14,7 +14,7 @@ https://gist.github.com/lelandbatey/8677901 for the original.
 This whiteboard-cleander does also the following:
 * Shrink images if resolution is too high
 * Overwrite original image if no second file name is given
-* Reduce number of colors (TODO)
+* Reduce number of colors
 
 
 ------------------------------------------------------------------------
