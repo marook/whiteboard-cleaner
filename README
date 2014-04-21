@@ -1,0 +1,35 @@
+whiteboard-cleaner - Clean up photographs of whiteboard or paper notes
+
+1) Introduction
+2) Installation
+3) Copying
+
+
+------------------------------------------------------------------------
+Introduction
+
+This is an enhanced version of whiteboard-cleaner by lelandbatey. See
+https://gist.github.com/lelandbatey/8677901 for the original.
+
+This whiteboard-cleander does also the following:
+* Resize images
+* Overwrite original image if no second file name is given
+* Reduce number of colors
+
+
+------------------------------------------------------------------------
+Installation
+
+To install whiteboard-cleaner for all users on your system type:
+$ sudo make install
+
+Installing whiteboard-cleaner for your current user can be done by
+specifying a custom prefix. Make sure the prefix path is the correct one
+for your system:
+$ make PREFIX=~/.local install
+
+
+------------------------------------------------------------------------
+Copying
+
+See the COPYING file.
