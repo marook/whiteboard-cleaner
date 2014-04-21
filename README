@@ -12,9 +12,9 @@ This is an enhanced version of whiteboard-cleaner by lelandbatey. See
 https://gist.github.com/lelandbatey/8677901 for the original.
 
 This whiteboard-cleander does also the following:
-* Resize images
-* Overwrite original image if no second file name is given
-* Reduce number of colors
+* Resize images (TODO)
+* Overwrite original image if no second file name is given (TODO)
+* Reduce number of colors (TODO)
 
 
 ------------------------------------------------------------------------
